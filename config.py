@@ -1,7 +1,7 @@
-repo_owner = 'SyrnikovPavel'
-repo_name = 'esp_monitor'
+repo_owner = 'RobMacGregor'
+repo_name = 'esp32_basic'
 essid = 'OUR'
-password = 'Nastya26042015'
+password = 'Micropython'
 
 with open('.gitignore', 'w') as f:
 	f.write(repo_name)
